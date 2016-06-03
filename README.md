@@ -4,7 +4,6 @@
 
 ﻿Dowloading Angular2 Template
 ---------
- 
     | git clone https://github.com/BengisuSahin/Angular2-template.git
 ﻿
 Package Install
